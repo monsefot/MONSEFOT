@@ -4,8 +4,8 @@ I'm a passionate Full Stack Developer based in Algeria. I enjoy working with a v
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C, JavaScript, PHP, Java, Python, Shell
-- **DevOps:** Docke, GCC
+- **Languages:** C, Typescript, Dart, PHP, Java, Python, Shell
+- **DevOps:** Docker, Google Cloud Platform
 - **Other:** Linux, Gnome
 
 ## 🌱 Currently Learning
